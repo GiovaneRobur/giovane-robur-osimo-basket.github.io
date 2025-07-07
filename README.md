@@ -98,7 +98,7 @@
             </div>
            
                
-            </script>
+            
         </section>
 
         <section id="sponsor" class="mt-12">
