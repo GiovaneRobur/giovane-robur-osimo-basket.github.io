@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8" />
-  <title>Giovane Robur Osimo Basket</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giovane Robur Osimo Basket</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-  <!-- Tutto il contenuto del sito -->
-
+<body class="bg-white text-gray-900 font-sans">
 
     <header class="relative text-white text-center p-6 flex flex-col items-center justify-center h-60 bg-cover bg-center" style="background-image: url('img/Sfondo.jpg');">
         <!-- Overlay semi-trasparente -->
